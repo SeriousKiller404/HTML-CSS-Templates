@@ -1,2 +1,2 @@
 # HTML-CSS-Templates
-Templates-HTML-CSS
+Template-One-HTML-CSS
